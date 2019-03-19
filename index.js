@@ -1,6 +1,6 @@
-function returnFirstTwoDrivers(drivers) {
-  const x = [drivers[0], drivers[1]];
-  return x;
+const returnFirstTwoDrivers = function(drivers) {
+  return [drivers[0], drivers[1]];
+
 }
 
 
