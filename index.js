@@ -1,5 +1,5 @@
 function returnFirstTwoDrivers(drivers) {
-
+  return [drivers[0], drivers[1]];
 }
 
 function returnLastTwoDrivers(drivers) {
