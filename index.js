@@ -1,6 +1,7 @@
 function returnFirstTwoDrivers(drivers) {
   return [drivers[0], drivers[1]];
 }
+const returnLastTwoDrivers(drivers);
 
 function returnLastTwoDrivers(drivers) {
   const lastTwo = function(drivers) {
